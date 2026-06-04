@@ -56,11 +56,7 @@ car_lidar_nav2/
 - `tf2_ros`
 - `tf2_geometry_msgs`
 - `cv_bridge`
-- OpenCV
-- `nav2_bringup`
-- `nav2_map_server`
-- `nav2_lifecycle_manager`
-- `rviz2`
+
 
 如果缺少依赖，可在工作区中使用 `rosdep` 安装。
 
